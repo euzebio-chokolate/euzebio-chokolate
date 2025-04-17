@@ -1,25 +1,23 @@
-# 👩🏻‍💻 Euzebio Oliveira
+# 👩🏻‍💻 Euzebio Oliveira  ---  ### 📊 Estatísticas  
+<div style="display: flex; flex-direction: column;">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px; margin-bottom: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=euzebio-chokolate&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" />
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=euzebio-chokolate&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
+
 
 ---
 
-### 📊 Estatísticas
+<!-- Ícones das linguagens abaixo -->
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
+  <!-- Coloque os ícones das suas linguagens aqui -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,spring,cpp,mysql,postgresql" />
+  <!-- Adicione mais ícones conforme necessário -->
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=euzebio-chokolate&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=euzebio-chokolate&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<br>
