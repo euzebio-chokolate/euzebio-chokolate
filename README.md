@@ -1,13 +1,15 @@
-#Euzebio Oliveira  ---  ### 📊 Estatísticas  
+#Euzebio Oliveira
+--- 
+### 📊 Estatísticas  
 <div style="display: flex; flex-direction: column;">
   <img 
     alt="GitHub Stats" 
-    height="180" 
+    height="190" 
     style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=euzebio-chokolate&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" />
   <img 
     alt="GitHub Stats" 
-    height="180" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=euzebio-chokolate&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
