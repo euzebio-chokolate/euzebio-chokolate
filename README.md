@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Euzebio Oliveira  ---  ### 📊 Estatísticas  
+#Euzebio Oliveira  ---  ### 📊 Estatísticas  
 <div style="display: flex; flex-direction: column;">
   <img 
     alt="GitHub Stats" 
@@ -17,7 +17,7 @@
 <!-- Ícones das linguagens abaixo -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <!-- Coloque os ícones das suas linguagens aqui -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,java,spring,cpp,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,mysql" />
   <!-- Adicione mais ícones conforme necessário -->
 </div>
 
