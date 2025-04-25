@@ -19,7 +19,7 @@
 <!-- Ícones das linguagens abaixo -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
   <!-- Coloque os ícones das suas linguagens aqui -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql" />
   <!-- Adicione mais ícones conforme necessário -->
 </div>
 
