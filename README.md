@@ -9,7 +9,7 @@
     src="https://github-readme-stats.vercel.app/api?username=euzebio-chokolate&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" />
   <img 
     alt="GitHub Stats" 
-    height="195" 
+    height="190" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=euzebio-chokolate&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
