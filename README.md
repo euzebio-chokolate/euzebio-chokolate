@@ -4,7 +4,7 @@
 <div style="display: flex; flex-direction: column;">
   <img 
     alt="GitHub Stats" 
-    height="195" 
+    height="165" 
     style="padding-right: 10px; margin-bottom: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=euzebio-chokolate&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" />
   <img 
