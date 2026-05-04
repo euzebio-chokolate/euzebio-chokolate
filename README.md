@@ -1,25 +1,34 @@
-### Euzebio Oliveira
---- 
-### 📊 Estatísticas  
-<div style="display: flex; flex-direction: column;">
-  <img 
-    alt="GitHub Stats" 
-    height="165" 
-    style="padding-right: 10px; margin-bottom: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=euzebio-chokolate&show_icons=true&theme=tokyonight&include_all_commits&locale=pt-br" />
-  <img 
-    alt="GitHub Stats" 
-    height="190" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=euzebio-chokolate&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
-
+### Olá! Sou Euzébio Oliveira
+- **Graduando em Sistemas para Internet - IFAC** 
 
 ---
-
-<!-- Ícones das linguagens abaixo -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px;">
-  <!-- Coloque os ícones das suas linguagens aqui -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql,react,spring,angular" />
-  <!-- Adicione mais ícones conforme necessário -->
+<!--- Euzebio's stats and top languages -->
+<div align="center">
+    <img height="170cm" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=euzebio-chokolate&show_icons=true&include_all_commits=true&theme=dracula" alt="Euzebio's github stats" /> ||
+    <img height="170em" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=euzebio-chokolate&layout=compact&langs_count=10&theme=dracula&hide=html,php,blade,portugol"/>
 </div>
+<!--- Stats from: "https://github.com/anuraghazra/github-readme-stats" -->
 
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,angular,java,spring,cpp,mysql,postgresql" />
+  </a>
+</p>
+
+---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/euzebio-chcokolate/euzebio-chokolate/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/euzebio-chcokolate/euzebio-chokolate/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/euzebio-chcokolate/euzebio-chokolate/output/github-contribution-grid-snake.svg"
+  />
+</picture>
